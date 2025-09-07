@@ -11,3 +11,6 @@ No.InstalarAplicativo("Google");
 
 ip.ReceberLigacao();
 No.ReceberLigacao();
+
+ip.Ligar();
+No.Ligar();
